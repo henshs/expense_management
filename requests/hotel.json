@@ -1,0 +1,33 @@
+{
+  "type": "hotel",
+  "external_id": "hotel-LON-2026-03-11",
+  "currency": "EUR",
+  "occurred_at": "2026-03-11T15:00:00Z",
+  "total": 331.7,
+  "tax_lines": [
+    {
+      "name": "VAT",
+      "rate": 0.07,
+      "amount": 21.7
+    }
+  ],
+  "fee_lines": [],
+  "metadata": {
+    "name": "Hotel Mitte London",
+    "address": {
+      "street": "12 Kingsway",
+      "city": "London",
+      "country": "GB"
+    },
+    "check_in": "2026-03-11",
+    "check_out": "2026-03-13",
+    "nights": 2,
+    "room_rate_per_night": 140.0,
+    "extras": [
+      {
+        "name": "Breakfast",
+        "amount": 30.0
+      }
+    ]
+  }
+}

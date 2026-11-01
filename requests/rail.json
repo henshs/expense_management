@@ -1,0 +1,34 @@
+{
+  "type": "rail",
+  "external_id": "rail-STP-PAR-2026-03-13",
+  "currency": "EUR",
+  "occurred_at": "2026-03-13T09:00:00Z",
+  "total": 94.0,
+  "tax_lines": [],
+  "fee_lines": [
+    {
+      "name": "Booking fee",
+      "amount": 4.0
+    }
+  ],
+  "metadata": {
+    "legs": [
+      {
+        "origin": "London St Pancras",
+        "destination": "Lille Europe",
+        "departure": "2026-03-13T09:00:00Z",
+        "arrival": "2026-03-13T10:30:00Z",
+        "train_number": "EST9108",
+        "class": "standard"
+      },
+      {
+        "origin": "Lille Europe",
+        "destination": "Paris Nord",
+        "departure": "2026-03-13T11:00:00Z",
+        "arrival": "2026-03-13T12:05:00Z",
+        "train_number": "EST9122",
+        "class": "standard"
+      }
+    ]
+  }
+}

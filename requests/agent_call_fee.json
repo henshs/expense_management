@@ -1,0 +1,14 @@
+{
+  "type": "navan_fee",
+  "external_id": "navan-agent-call-2026-03-11",
+  "currency": "EUR",
+  "occurred_at": "2026-03-11T18:00:00Z",
+  "total": 15.0,
+  "tax_lines": [],
+  "fee_lines": [],
+  "metadata": {
+    "fee_kind": "agent_call_fee",
+    "description": "Agent fee for support call",
+    "related_external_id": "hotel-LON-2026-03-11"
+  }
+}

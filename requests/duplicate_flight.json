@@ -1,0 +1,25 @@
+{
+  "type": "flight",
+  "external_id": "flight-TXL-LHR-2026-03-11",
+  "currency": "EUR",
+  "occurred_at": "2026-03-11T06:40:00Z",
+  "total": 220.0,
+  "tax_lines": [
+    {
+      "name": "Airport tax",
+      "amount": 15.0
+    }
+  ],
+  "fee_lines": [
+    {
+      "name": "YQ",
+      "amount": 25.0
+    }
+  ],
+  "metadata": {
+    "origin": "TXL",
+    "destination": "LHR",
+    "fare": 180.0,
+    "coupons": []
+  }
+}
